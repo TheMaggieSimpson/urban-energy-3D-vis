@@ -1,0 +1,2627 @@
+[
+  {
+    "gml_id": "DENW25AL0000cOWU",
+    "annual_heat_demand": "175,7512929",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHu",
+    "annual_heat_demand": "131,2839262",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGo",
+    "annual_heat_demand": "227,1690496",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ6",
+    "annual_heat_demand": "291,3573256",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGH",
+    "annual_heat_demand": "248,0613763",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIf",
+    "annual_heat_demand": "290,0521838",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHG",
+    "annual_heat_demand": "127,3566377",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFF",
+    "annual_heat_demand": "277,957241",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sG2",
+    "annual_heat_demand": "169,8269289",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFX",
+    "annual_heat_demand": "154,7122237",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sK4",
+    "annual_heat_demand": "16,44816346",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEh",
+    "annual_heat_demand": "26,19709519",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFJ",
+    "annual_heat_demand": "246,7926014",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKs",
+    "annual_heat_demand": "117,6949968",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLy",
+    "annual_heat_demand": "228,5910035",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHL",
+    "annual_heat_demand": "240,8378837",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033zW",
+    "annual_heat_demand": "83,02205825",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syH",
+    "annual_heat_demand": "11,97869491",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szC",
+    "annual_heat_demand": "118,0337307",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ7",
+    "annual_heat_demand": "265,6678937",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGn",
+    "annual_heat_demand": "139,3185512",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEo",
+    "annual_heat_demand": "16,17927363",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWK",
+    "annual_heat_demand": "53,27805284",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIg",
+    "annual_heat_demand": "169,1704871",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIU",
+    "annual_heat_demand": "115,8289388",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGc",
+    "annual_heat_demand": "139,5600745",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIn",
+    "annual_heat_demand": "193,9750833",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWN",
+    "annual_heat_demand": "20,72789329",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHK",
+    "annual_heat_demand": "185,981808",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHV",
+    "annual_heat_demand": "25,12752021",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKV",
+    "annual_heat_demand": "148,7646209",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000eM4m",
+    "annual_heat_demand": "282,4873259",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJI",
+    "annual_heat_demand": "247,1591035",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AG",
+    "annual_heat_demand": "160,3416091",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJy",
+    "annual_heat_demand": "60,40347011",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEm",
+    "annual_heat_demand": "90,11752228",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szY",
+    "annual_heat_demand": "78,88374884",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sCO",
+    "annual_heat_demand": "202,9178366",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFL",
+    "annual_heat_demand": "66,42632696",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDy",
+    "annual_heat_demand": "107,4474973",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKh",
+    "annual_heat_demand": "134,5889941",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH0",
+    "annual_heat_demand": "291,925769",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFN",
+    "annual_heat_demand": "162,0542516",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szs",
+    "annual_heat_demand": "222,7853874",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHs",
+    "annual_heat_demand": "214,9865587",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDs",
+    "annual_heat_demand": "224,4544931",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00007ov2",
+    "annual_heat_demand": "277,6088142",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOWQ",
+    "annual_heat_demand": "27,887706",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sG4",
+    "annual_heat_demand": "144,8837791",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJw",
+    "annual_heat_demand": "159,852239",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIK",
+    "annual_heat_demand": "107,2957135",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033zV",
+    "annual_heat_demand": "239,0422266",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ2",
+    "annual_heat_demand": "244,3915245",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Bd",
+    "annual_heat_demand": "70,89543189",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sK3",
+    "annual_heat_demand": "187,9101471",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHJ",
+    "annual_heat_demand": "55,94124765",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Az",
+    "annual_heat_demand": "66,6628838",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEJ",
+    "annual_heat_demand": "129,9277007",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syK",
+    "annual_heat_demand": "76,45470676",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIa",
+    "annual_heat_demand": "27,11979751",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHB",
+    "annual_heat_demand": "173,1621453",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJk",
+    "annual_heat_demand": "17,11423389",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEY",
+    "annual_heat_demand": "8,094030409",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sK5",
+    "annual_heat_demand": "44,43912319",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00006PTD",
+    "annual_heat_demand": "117,3297051",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sF8",
+    "annual_heat_demand": "156,5766166",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sF7",
+    "annual_heat_demand": "231,0302225",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szW",
+    "annual_heat_demand": "288,69711",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ8",
+    "annual_heat_demand": "41,526332",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFd",
+    "annual_heat_demand": "296,1400241",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syL",
+    "annual_heat_demand": "26,22102881",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000dylQ",
+    "annual_heat_demand": "102,4630162",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szm",
+    "annual_heat_demand": "52,01590851",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJn",
+    "annual_heat_demand": "168,0079861",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AT",
+    "annual_heat_demand": "212,2567881",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL3",
+    "annual_heat_demand": "248,6562578",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syG",
+    "annual_heat_demand": "50,64364587",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJM",
+    "annual_heat_demand": "26,75228036",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szJ",
+    "annual_heat_demand": "223,8301494",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Bi",
+    "annual_heat_demand": "55,88104244",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AO",
+    "annual_heat_demand": "167,7378144",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00007ov4",
+    "annual_heat_demand": "197,5058986",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLI",
+    "annual_heat_demand": "57,33217858",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sK9",
+    "annual_heat_demand": "139,8357256",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ5",
+    "annual_heat_demand": "58,72647032",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGz",
+    "annual_heat_demand": "254,0502013",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEV",
+    "annual_heat_demand": "3,48061529",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFu",
+    "annual_heat_demand": "121,7772253",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFy",
+    "annual_heat_demand": "278,2963264",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHE",
+    "annual_heat_demand": "290,1929089",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGt",
+    "annual_heat_demand": "71,53454911",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEQ",
+    "annual_heat_demand": "298,092398",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJt",
+    "annual_heat_demand": "69,59963507",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOXr",
+    "annual_heat_demand": "34,42756627",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C7",
+    "annual_heat_demand": "87,95663289",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIC",
+    "annual_heat_demand": "21,68859202",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGR",
+    "annual_heat_demand": "174,051426",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIT",
+    "annual_heat_demand": "138,8035592",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIJ",
+    "annual_heat_demand": "108,5553953",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sID",
+    "annual_heat_demand": "154,0706023",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIl",
+    "annual_heat_demand": "183,5735247",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHz",
+    "annual_heat_demand": "299,362989",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOXD",
+    "annual_heat_demand": "144,8968563",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000aqkf",
+    "annual_heat_demand": "296,848884",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDh",
+    "annual_heat_demand": "30,45489813",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFe",
+    "annual_heat_demand": "246,3116821",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGj",
+    "annual_heat_demand": "291,1420528",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AY",
+    "annual_heat_demand": "91,35462904",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFO",
+    "annual_heat_demand": "272,6842849",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKW",
+    "annual_heat_demand": "76,13173154",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDr",
+    "annual_heat_demand": "133,3287419",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEL",
+    "annual_heat_demand": "197,0311646",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szP",
+    "annual_heat_demand": "289,5726271",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033zU",
+    "annual_heat_demand": "281,7271431",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sCP",
+    "annual_heat_demand": "179,1242173",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sz0",
+    "annual_heat_demand": "237,6102004",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKI",
+    "annual_heat_demand": "260,9119213",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIR",
+    "annual_heat_demand": "103,831968",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEn",
+    "annual_heat_demand": "244,8237631",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKU",
+    "annual_heat_demand": "297,5759434",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGs",
+    "annual_heat_demand": "107,8823578",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szI",
+    "annual_heat_demand": "195,3747265",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szv",
+    "annual_heat_demand": "104,557007",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sG9",
+    "annual_heat_demand": "29,32079109",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJS",
+    "annual_heat_demand": "59,85371576",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHX",
+    "annual_heat_demand": "6,604062826",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL5",
+    "annual_heat_demand": "204,3224056",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLJ",
+    "annual_heat_demand": "77,73063294",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJf",
+    "annual_heat_demand": "52,80822634",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJA",
+    "annual_heat_demand": "261,8644512",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEz",
+    "annual_heat_demand": "10,59752278",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL1",
+    "annual_heat_demand": "257,524947",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szo",
+    "annual_heat_demand": "289,9642608",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIO",
+    "annual_heat_demand": "234,9284936",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B5",
+    "annual_heat_demand": "220,0823848",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKR",
+    "annual_heat_demand": "204,7072712",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH2",
+    "annual_heat_demand": "147,2118637",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AC",
+    "annual_heat_demand": "154,2485973",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI3",
+    "annual_heat_demand": "123,5622376",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHD",
+    "annual_heat_demand": "112,5145904",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000arba",
+    "annual_heat_demand": "285,637897",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEX",
+    "annual_heat_demand": "247,6303443",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFB",
+    "annual_heat_demand": "242,1929832",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJg",
+    "annual_heat_demand": "58,27178657",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGP",
+    "annual_heat_demand": "125,4134312",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJQ",
+    "annual_heat_demand": "92,3270043",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEA",
+    "annual_heat_demand": "205,1604394",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGu",
+    "annual_heat_demand": "74,39920433",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJV",
+    "annual_heat_demand": "201,0025744",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKa",
+    "annual_heat_demand": "191,8059622",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGf",
+    "annual_heat_demand": "107,1919296",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKn",
+    "annual_heat_demand": "243,5667641",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJz",
+    "annual_heat_demand": "8,789201095",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLH",
+    "annual_heat_demand": "282,6354338",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sG3",
+    "annual_heat_demand": "297,4966113",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKY",
+    "annual_heat_demand": "102,6424384",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AK",
+    "annual_heat_demand": "101,8222512",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHc",
+    "annual_heat_demand": "153,0652807",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sz8",
+    "annual_heat_demand": "172,6571325",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFc",
+    "annual_heat_demand": "203,3873497",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szn",
+    "annual_heat_demand": "28,22689313",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000dVUI",
+    "annual_heat_demand": "166,6289538",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGd",
+    "annual_heat_demand": "85,5624406",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKZ",
+    "annual_heat_demand": "4,244347139",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGl",
+    "annual_heat_demand": "285,5847753",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIW",
+    "annual_heat_demand": "230,0477213",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKb",
+    "annual_heat_demand": "115,0675545",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKk",
+    "annual_heat_demand": "209,715551",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEF",
+    "annual_heat_demand": "233,4501832",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH1",
+    "annual_heat_demand": "36,64455577",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGy",
+    "annual_heat_demand": "111,2350684",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOX6",
+    "annual_heat_demand": "47,39220995",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKO",
+    "annual_heat_demand": "291,434288",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLP",
+    "annual_heat_demand": "232,7128592",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AX",
+    "annual_heat_demand": "111,3019423",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEw",
+    "annual_heat_demand": "12,94645559",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sG7",
+    "annual_heat_demand": "31,98107408",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEi",
+    "annual_heat_demand": "127,7349895",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sxh",
+    "annual_heat_demand": "62,10299532",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B8",
+    "annual_heat_demand": "166,9519196",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFt",
+    "annual_heat_demand": "204,165738",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIz",
+    "annual_heat_demand": "40,15932586",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szt",
+    "annual_heat_demand": "190,9904881",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFH",
+    "annual_heat_demand": "200,5220705",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJL",
+    "annual_heat_demand": "122,0144127",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI2",
+    "annual_heat_demand": "20,79923982",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B0",
+    "annual_heat_demand": "235,9124662",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sxC",
+    "annual_heat_demand": "173,5548831",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00007ov3",
+    "annual_heat_demand": "170,2863989",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000eM3Y",
+    "annual_heat_demand": "56,71051216",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFR",
+    "annual_heat_demand": "221,3920096",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOX2",
+    "annual_heat_demand": "42,42413904",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJE",
+    "annual_heat_demand": "132,6869765",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIx",
+    "annual_heat_demand": "67,14013234",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOXu",
+    "annual_heat_demand": "133,3098221",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sET",
+    "annual_heat_demand": "54,73505851",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJD",
+    "annual_heat_demand": "291,12013",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEC",
+    "annual_heat_demand": "143,8553348",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000aqke",
+    "annual_heat_demand": "136,3738235",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIs",
+    "annual_heat_demand": "108,5115073",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sxD",
+    "annual_heat_demand": "43,90972551",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sz9",
+    "annual_heat_demand": "88,6599401",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL2",
+    "annual_heat_demand": "24,82371904",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJC",
+    "annual_heat_demand": "296,3220503",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szb",
+    "annual_heat_demand": "16,08616816",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sK6",
+    "annual_heat_demand": "247,0618403",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHW",
+    "annual_heat_demand": "279,5466289",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Bh",
+    "annual_heat_demand": "32,3141464",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIq",
+    "annual_heat_demand": "92,43192053",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sCb",
+    "annual_heat_demand": "54,29232895",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syi",
+    "annual_heat_demand": "27,15347026",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGM",
+    "annual_heat_demand": "292,6377751",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szg",
+    "annual_heat_demand": "131,1295051",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szq",
+    "annual_heat_demand": "216,9738326",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ4",
+    "annual_heat_demand": "49,51063062",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKl",
+    "annual_heat_demand": "179,7945536",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLF",
+    "annual_heat_demand": "86,80162706",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWW",
+    "annual_heat_demand": "192,3916438",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWR",
+    "annual_heat_demand": "208,180387",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000drsO",
+    "annual_heat_demand": "29,8369104",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sES",
+    "annual_heat_demand": "62,05933782",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHH",
+    "annual_heat_demand": "24,53392468",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLN",
+    "annual_heat_demand": "256,1210769",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFm",
+    "annual_heat_demand": "261,8606256",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLM",
+    "annual_heat_demand": "153,5397572",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AD",
+    "annual_heat_demand": "172,4042597",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWS",
+    "annual_heat_demand": "30,80301099",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKx",
+    "annual_heat_demand": "272,7985393",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000ckan",
+    "annual_heat_demand": "34,41122854",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szD",
+    "annual_heat_demand": "209,2597115",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIp",
+    "annual_heat_demand": "2,46075967",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEB",
+    "annual_heat_demand": "239,395671",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIY",
+    "annual_heat_demand": "239,9978332",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHO",
+    "annual_heat_demand": "260,2794612",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C6",
+    "annual_heat_demand": "61,46167025",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sA0",
+    "annual_heat_demand": "223,6000242",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDq",
+    "annual_heat_demand": "24,46267892",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGA",
+    "annual_heat_demand": "100,4576039",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGq",
+    "annual_heat_demand": "197,3294649",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFa",
+    "annual_heat_demand": "258,7699751",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJj",
+    "annual_heat_demand": "36,48895787",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szZ",
+    "annual_heat_demand": "69,13261263",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJh",
+    "annual_heat_demand": "42,48468751",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sK7",
+    "annual_heat_demand": "56,17604082",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C3",
+    "annual_heat_demand": "28,53067087",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szu",
+    "annual_heat_demand": "53,62331413",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00008MSg",
+    "annual_heat_demand": "288,2254507",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szr",
+    "annual_heat_demand": "15,96776635",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKQ",
+    "annual_heat_demand": "116,5062426",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syJ",
+    "annual_heat_demand": "87,82725614",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syM",
+    "annual_heat_demand": "244,1426059",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sxE",
+    "annual_heat_demand": "94,34588956",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syV",
+    "annual_heat_demand": "99,25000753",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWO",
+    "annual_heat_demand": "141,3211747",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWU",
+    "annual_heat_demand": "103,6035065",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWQ",
+    "annual_heat_demand": "135,6877815",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH3",
+    "annual_heat_demand": "299,4061089",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLS",
+    "annual_heat_demand": "266,7985149",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AR",
+    "annual_heat_demand": "58,49813578",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sCa",
+    "annual_heat_demand": "271,0759373",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000eM41",
+    "annual_heat_demand": "185,6910379",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000aBXG",
+    "annual_heat_demand": "287,0548493",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szH",
+    "annual_heat_demand": "15,86706514",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGI",
+    "annual_heat_demand": "166,9273183",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AN",
+    "annual_heat_demand": "41,04517391",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDB",
+    "annual_heat_demand": "63,71769958",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDt",
+    "annual_heat_demand": "127,6938026",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFs",
+    "annual_heat_demand": "254,1631761",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLR",
+    "annual_heat_demand": "130,8037313",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHP",
+    "annual_heat_demand": "265,857849",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGG",
+    "annual_heat_demand": "164,8343046",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH8",
+    "annual_heat_demand": "46,53712263",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLU",
+    "annual_heat_demand": "23,65122774",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sK8",
+    "annual_heat_demand": "228,0508084",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000071eY",
+    "annual_heat_demand": "33,55502698",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI7",
+    "annual_heat_demand": "240,6911522",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szk",
+    "annual_heat_demand": "178,9135959",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIm",
+    "annual_heat_demand": "279,3406749",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLW",
+    "annual_heat_demand": "235,8669539",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJB",
+    "annual_heat_demand": "124,1860294",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI8",
+    "annual_heat_demand": "294,8057733",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIb",
+    "annual_heat_demand": "3,749916279",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOXH",
+    "annual_heat_demand": "115,4335671",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJU",
+    "annual_heat_demand": "252,0305776",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGB",
+    "annual_heat_demand": "244,1326728",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00006PTF",
+    "annual_heat_demand": "177,4308055",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00006PTE",
+    "annual_heat_demand": "56,55891628",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEe",
+    "annual_heat_demand": "50,81127179",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGk",
+    "annual_heat_demand": "49,18492398",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKP",
+    "annual_heat_demand": "207,9788432",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033BX",
+    "annual_heat_demand": "269,494433",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLT",
+    "annual_heat_demand": "110,7319393",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIh",
+    "annual_heat_demand": "11,62060977",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFG",
+    "annual_heat_demand": "235,0101221",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFp",
+    "annual_heat_demand": "180,2712521",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIe",
+    "annual_heat_demand": "63,38062156",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syF",
+    "annual_heat_demand": "90,50979572",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syn",
+    "annual_heat_demand": "18,66251607",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH5",
+    "annual_heat_demand": "257,9435186",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWM",
+    "annual_heat_demand": "196,2218753",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000b31k",
+    "annual_heat_demand": "50,67170514",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGe",
+    "annual_heat_demand": "122,5292543",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWJ",
+    "annual_heat_demand": "186,1458793",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKj",
+    "annual_heat_demand": "5,164692663",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AI",
+    "annual_heat_demand": "220,5215329",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHI",
+    "annual_heat_demand": "4,026733952",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLD",
+    "annual_heat_demand": "144,1836702",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033BV",
+    "annual_heat_demand": "213,9352867",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AW",
+    "annual_heat_demand": "28,64075176",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKc",
+    "annual_heat_demand": "218,1485696",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWV",
+    "annual_heat_demand": "4,613864011",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKg",
+    "annual_heat_demand": "174,8678641",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sF9",
+    "annual_heat_demand": "139,402825",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLO",
+    "annual_heat_demand": "298,4963986",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWT",
+    "annual_heat_demand": "297,6484877",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFQ",
+    "annual_heat_demand": "236,8186902",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJP",
+    "annual_heat_demand": "105,0661544",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHN",
+    "annual_heat_demand": "6,810502776",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AH",
+    "annual_heat_demand": "143,1920466",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHm",
+    "annual_heat_demand": "267,834632",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWY",
+    "annual_heat_demand": "183,1115781",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFK",
+    "annual_heat_demand": "184,0459309",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syU",
+    "annual_heat_demand": "179,816677",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLL",
+    "annual_heat_demand": "119,8208829",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH6",
+    "annual_heat_demand": "235,6848096",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJO",
+    "annual_heat_demand": "143,6414216",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sCQ",
+    "annual_heat_demand": "136,7935714",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Bg",
+    "annual_heat_demand": "283,3200569",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKt",
+    "annual_heat_demand": "66,22383381",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI6",
+    "annual_heat_demand": "48,49916206",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHy",
+    "annual_heat_demand": "75,68805839",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJR",
+    "annual_heat_demand": "208,6563673",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Bj",
+    "annual_heat_demand": "67,72162218",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sCN",
+    "annual_heat_demand": "134,4558641",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKm",
+    "annual_heat_demand": "47,47452175",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWL",
+    "annual_heat_demand": "121,030061",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWP",
+    "annual_heat_demand": "42,36013821",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFV",
+    "annual_heat_demand": "145,9105407",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLK",
+    "annual_heat_demand": "217,0860718",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szA",
+    "annual_heat_demand": "269,907386",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOWE",
+    "annual_heat_demand": "296,7598347",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000dVUF",
+    "annual_heat_demand": "282,5584726",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000aBXE",
+    "annual_heat_demand": "168,3287488",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFZ",
+    "annual_heat_demand": "126,4442925",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDn",
+    "annual_heat_demand": "163,9356861",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AA",
+    "annual_heat_demand": "237,9391227",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGw",
+    "annual_heat_demand": "139,1638052",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szL",
+    "annual_heat_demand": "269,963379",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHA",
+    "annual_heat_demand": "248,7943103",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002szx",
+    "annual_heat_demand": "61,48659872",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIV",
+    "annual_heat_demand": "162,2531597",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJX",
+    "annual_heat_demand": "135,3350121",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syp",
+    "annual_heat_demand": "91,10511176",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDo",
+    "annual_heat_demand": "213,9254756",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI9",
+    "annual_heat_demand": "89,34046417",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sER",
+    "annual_heat_demand": "21,29636016",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B9",
+    "annual_heat_demand": "27,11275083",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLA",
+    "annual_heat_demand": "289,7313853",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL7",
+    "annual_heat_demand": "223,516409",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDg",
+    "annual_heat_demand": "215,9514651",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHQ",
+    "annual_heat_demand": "230,3431616",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AJ",
+    "annual_heat_demand": "266,0399714",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI1",
+    "annual_heat_demand": "282,7775367",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEP",
+    "annual_heat_demand": "216,4496676",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOXL",
+    "annual_heat_demand": "287,1369007",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHf",
+    "annual_heat_demand": "97,2555783",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AB",
+    "annual_heat_demand": "206,8319501",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLV",
+    "annual_heat_demand": "6,665459019",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL4",
+    "annual_heat_demand": "103,1791465",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL8",
+    "annual_heat_demand": "83,40417127",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Be",
+    "annual_heat_demand": "65,80312319",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C1",
+    "annual_heat_demand": "93,18928205",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C0",
+    "annual_heat_demand": "210,7775409",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGv",
+    "annual_heat_demand": "233,7656174",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Bc",
+    "annual_heat_demand": "31,32592353",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sM0",
+    "annual_heat_demand": "137,9444856",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sxi",
+    "annual_heat_demand": "231,662704",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sLE",
+    "annual_heat_demand": "37,44318726",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B6",
+    "annual_heat_demand": "177,2461909",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Cb",
+    "annual_heat_demand": "168,5398335",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEd",
+    "annual_heat_demand": "136,5672371",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00007hRd",
+    "annual_heat_demand": "181,8743272",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDm",
+    "annual_heat_demand": "94,65546233",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKD",
+    "annual_heat_demand": "52,84525253",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOWI",
+    "annual_heat_demand": "148,857579",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDp",
+    "annual_heat_demand": "233,4251941",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOWM",
+    "annual_heat_demand": "30,78411669",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI5",
+    "annual_heat_demand": "15,73747261",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sF0",
+    "annual_heat_demand": "50,26483662",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AU",
+    "annual_heat_demand": "144,7082499",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sIi",
+    "annual_heat_demand": "159,923831",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C4",
+    "annual_heat_demand": "11,2496368",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sF1",
+    "annual_heat_demand": "223,2756501",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B1",
+    "annual_heat_demand": "127,2225636",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL6",
+    "annual_heat_demand": "138,8347375",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Ba",
+    "annual_heat_demand": "100,4430745",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000aqkd",
+    "annual_heat_demand": "57,46974632",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI0",
+    "annual_heat_demand": "177,476401",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sKf",
+    "annual_heat_demand": "227,2308648",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C5",
+    "annual_heat_demand": "43,61899379",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sxg",
+    "annual_heat_demand": "32,23842345",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFI",
+    "annual_heat_demand": "199,9189679",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ3",
+    "annual_heat_demand": "78,99027756",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AV",
+    "annual_heat_demand": "282,2038358",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEu",
+    "annual_heat_demand": "121,9054886",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C2",
+    "annual_heat_demand": "241,175219",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sGx",
+    "annual_heat_demand": "228,7559774",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOWY",
+    "annual_heat_demand": "293,0362473",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ1",
+    "annual_heat_demand": "231,5014635",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sxj",
+    "annual_heat_demand": "240,1570444",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sWX",
+    "annual_heat_demand": "267,4452997",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sFW",
+    "annual_heat_demand": "228,7814191",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000dylX",
+    "annual_heat_demand": "80,80877629",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000ejsn",
+    "annual_heat_demand": "218,7365887",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHR",
+    "annual_heat_demand": "176,0560094",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sHt",
+    "annual_heat_demand": "239,7981471",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033BY",
+    "annual_heat_demand": "44,42047523",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000cOWA",
+    "annual_heat_demand": "85,34322253",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ9",
+    "annual_heat_demand": "171,930458",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033Bb",
+    "annual_heat_demand": "125,9607858",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sH4",
+    "annual_heat_demand": "77,85619277",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sF4",
+    "annual_heat_demand": "51,72681799",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sG0",
+    "annual_heat_demand": "123,9754379",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033AS",
+    "annual_heat_demand": "299,5999553",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00008g86",
+    "annual_heat_demand": "9,60747751",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sJ0",
+    "annual_heat_demand": "73,10938143",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sDl",
+    "annual_heat_demand": "277,2313108",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sz4",
+    "annual_heat_demand": "47,67792003",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B7",
+    "annual_heat_demand": "133,1016736",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033BW",
+    "annual_heat_demand": "145,9589441",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000aBXF",
+    "annual_heat_demand": "86,20893047",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033C9",
+    "annual_heat_demand": "287,5316906",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sz6",
+    "annual_heat_demand": "215,6107377",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B2",
+    "annual_heat_demand": "237,4321787",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sI4",
+    "annual_heat_demand": "153,6740382",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033B4",
+    "annual_heat_demand": "233,6976894",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sEk",
+    "annual_heat_demand": "7,936883397",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL000033BZ",
+    "annual_heat_demand": "228,5142616",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL0000aUeo",
+    "annual_heat_demand": "182,6432351",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL0",
+    "annual_heat_demand": "39,34873862",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syX",
+    "annual_heat_demand": "37,51508808",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002syQ",
+    "annual_heat_demand": "208,9240194",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00002sL9",
+    "annual_heat_demand": "18,3363733",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "DENW25AL00006PTG",
+    "annual_heat_demand": "274,5559166",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_5b130ff9-7113-46c0-bded-ff4d532b2774",
+    "annual_heat_demand": "177,5309865",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_9cbf0406-25b7-45ed-9227-def413b72350",
+    "annual_heat_demand": "215,1581008",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_ef3f252c-2ffa-42bd-ac77-7e91fd30a1d1",
+    "annual_heat_demand": "43,68285934",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_hslpITKHRnPeSK2e",
+    "annual_heat_demand": "249,1290485",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517581",
+    "annual_heat_demand": "98,5129194",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_eJ3h43eY6nAkd0ak",
+    "annual_heat_demand": "266,1335938",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_aGlSNlU69xBBGeGa",
+    "annual_heat_demand": "287,9926679",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_GCTKsScJaozLvuKQ",
+    "annual_heat_demand": "126,4685387",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_1a8024bc-44ad-42d7-a3aa-8af31171ce6e",
+    "annual_heat_demand": "40,54325984",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517502",
+    "annual_heat_demand": "209,9891393",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517503",
+    "annual_heat_demand": "152,5839093",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517501",
+    "annual_heat_demand": "168,4900622",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_4e92efe6-c713-469f-b686-ff9a6678db01",
+    "annual_heat_demand": "38,26048544",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517498",
+    "annual_heat_demand": "83,70404348",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517499",
+    "annual_heat_demand": "241,2323663",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_cd394dab-d2f5-4e61-b807-98af810daf4c",
+    "annual_heat_demand": "26,76654018",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_QGC6Ru3MrK1TAAbT",
+    "annual_heat_demand": "183,7514395",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517485",
+    "annual_heat_demand": "255,9531895",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517486",
+    "annual_heat_demand": "263,1987356",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517487",
+    "annual_heat_demand": "206,5143316",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517488",
+    "annual_heat_demand": "73,76102946",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_8892e30d-d12b-4b0a-b963-623b1911abf1",
+    "annual_heat_demand": "83,27994088",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_7e2f9a24-06a6-4620-b6dc-e789e60c03b4",
+    "annual_heat_demand": "149,3263315",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_13ccdcf0-ac1f-4e3c-80b0-38eb1928f741",
+    "annual_heat_demand": "238,9178452",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517432",
+    "annual_heat_demand": "81,24695202",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_ebg2a7THZKiDJKLq",
+    "annual_heat_demand": "140,8029461",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_CXHjYbaNLI9MmByM",
+    "annual_heat_demand": "254,1451033",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_HwQ5O1uhWUyCgLcE",
+    "annual_heat_demand": "180,0805735",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_409776cc-9932-4417-b0cd-63de6112a0b5",
+    "annual_heat_demand": "137,1340098",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517496",
+    "annual_heat_demand": "294,849917",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_tiNWXi9GMzKtvUHy",
+    "annual_heat_demand": "270,0217979",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_7c58e5d9-3674-4bfd-b4d3-3da8db2a99d4",
+    "annual_heat_demand": "24,64230812",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_ecgy2dWGP2i2p0k9",
+    "annual_heat_demand": "230,3016095",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_86cd3629-ce61-453c-937a-53f25d131b31",
+    "annual_heat_demand": "240,9186004",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_f141fb89-732d-4283-b325-5ffe4da08593",
+    "annual_heat_demand": "68,59730802",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_spEnEOUr0IkOL6Bb",
+    "annual_heat_demand": "257,5202969",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_IPQ3683yU6Pq1yR9",
+    "annual_heat_demand": "229,2005512",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_d4bbb7b7-3d7f-40d2-99c9-3eb0731bcaa3",
+    "annual_heat_demand": "161,9483969",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517131",
+    "annual_heat_demand": "13,16124169",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517130",
+    "annual_heat_demand": "278,9500611",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517132",
+    "annual_heat_demand": "202,6007895",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517133",
+    "annual_heat_demand": "178,4877826",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_3226e93b-21f7-441a-8ed7-017765c62f2b",
+    "annual_heat_demand": "6,737162784",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517127",
+    "annual_heat_demand": "155,441986",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517126",
+    "annual_heat_demand": "282,7109157",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_ea852cb8-a1be-4fd6-9832-427789518c2c",
+    "annual_heat_demand": "12,25771267",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517291",
+    "annual_heat_demand": "9,725162182",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_6c817555-3c2b-4a65-a002-baf1d6f9abc3",
+    "annual_heat_demand": "163,274128",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517571",
+    "annual_heat_demand": "5,213797178",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517572",
+    "annual_heat_demand": "298,2916741",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517574",
+    "annual_heat_demand": "197,45994",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_8ef43d6a-0205-4c95-b3f4-3d8419fff9a2",
+    "annual_heat_demand": "133,5465676",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517575",
+    "annual_heat_demand": "159,7576586",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_a1ce2e68-e6d1-4dd0-b4b3-40b05ea31406",
+    "annual_heat_demand": "33,84870209",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517255",
+    "annual_heat_demand": "77,33955654",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517373",
+    "annual_heat_demand": "152,637218",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_d7849a70-6ec5-4318-88cb-53a31e3bc578",
+    "annual_heat_demand": "157,3084305",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_yFbFbNVffOmm80Pq",
+    "annual_heat_demand": "125,084625",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_a9b7f6e9-276b-44bb-bc55-680986564382",
+    "annual_heat_demand": "184,6151424",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517227",
+    "annual_heat_demand": "221,3003182",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_04ce8b2f-4b5e-4a40-b1f6-488d431c7526",
+    "annual_heat_demand": "266,687615",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517558",
+    "annual_heat_demand": "79,11246819",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_cf9bc063-a6ea-4f25-a9b0-8129686ce757",
+    "annual_heat_demand": "236,1574365",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517435",
+    "annual_heat_demand": "7,450081275",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_5f160734-5a16-4b9d-b898-36baf7029115",
+    "annual_heat_demand": "177,811672",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_PsLFfem8wKgdVyPH",
+    "annual_heat_demand": "38,96069786",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_80937ef3-5b7b-41c1-a296-7aa8d53b10a4",
+    "annual_heat_demand": "225,8620342",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_f5ab6919-dce3-4f44-b645-b100193264d2",
+    "annual_heat_demand": "114,269911",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_8eaf3175-2959-41d7-9470-724da671285a",
+    "annual_heat_demand": "59,52724684",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_0fe99f58-f646-4954-869d-e5d7f2ecf255",
+    "annual_heat_demand": "16,40927364",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517341",
+    "annual_heat_demand": "195,9538228",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_f651971f-30cc-433a-b1c5-259171df781a",
+    "annual_heat_demand": "287,2500969",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_6d3ee372-b60d-44f2-9cbe-08c9264cfd7d",
+    "annual_heat_demand": "157,9726064",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517317",
+    "annual_heat_demand": "94,48763929",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_3d51482d-ba39-4eca-b689-fd428bc08add",
+    "annual_heat_demand": "275,6067153",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_10bc8dfa-1342-41b3-a393-7b5bcd8a0efa",
+    "annual_heat_demand": "60,79436811",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_4f5ce7bf-e239-4d10-b9a1-6a87a48dfc4e",
+    "annual_heat_demand": "72,61387547",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_3d9cb89a-48bf-438f-90ab-f3d217ef7ede",
+    "annual_heat_demand": "50,35104118",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_1543405942858_57517370",
+    "annual_heat_demand": "249,3719136",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "UUID_c72f8b7d-71eb-49f4-af5a-1530a6d6392a",
+    "annual_heat_demand": "74,38633771",
+    "unit": "kWh/m2a"
+  },
+  {
+    "gml_id": "GUID_siBZnLYvhakFtdj2",
+    "annual_heat_demand": "232,6352704",
+    "unit": "kWh/m2a"
+  }
+]
