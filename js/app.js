@@ -1,9 +1,13 @@
 var myViewer = new Cesium.Viewer("cesiumContainer", {
-    animation: false,
-    timeline: false,
-    terrainProvider: Cesium.createWorldTerrain()
-  });
-  myViewer.scene.globe.depthTestAgainstTerrain = true;
+  imageryProvider: new Cesium.OpenStreetMapImageryProvider({
+    url : 'https://a.tile.openstreetmap.org/'
+  }),
+  animation: false,
+  timeline: false,
+  geocoder: false,
+  baseLayerPicker: false,
+});
+myViewer.scene.globe.depthTestAgainstTerrain = true;
 
   var tileset = new Cesium.Cesium3DTileset({
     url: 'data/Essen/tileset.json' // URL to tileset
@@ -16,7 +20,7 @@ var myViewer = new Cesium.Viewer("cesiumContainer", {
     );
 
     // set the altitude of the tileset
-    var height = 50; // reset this value if needed
+    var height = 0; // reset this value if needed
     var cartographic = Cesium.Cartographic.fromCartesian(tileset.boundingSphere.center);
     var surface = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, 0.0);
     var offset = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, height);
