@@ -20,7 +20,7 @@ myViewer.scene.globe.depthTestAgainstTerrain = true;
     );
 
     // set the altitude of the tileset
-    var height = 0; // reset this value if needed
+    var height = -110; // reset this value if needed
     var cartographic = Cesium.Cartographic.fromCartesian(tileset.boundingSphere.center);
     var surface = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, 0.0);
     var offset = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, height);
