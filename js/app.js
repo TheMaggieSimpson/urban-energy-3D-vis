@@ -117,7 +117,7 @@ $.getJSON( "data/essen_heatDemand.json", function(data) {
           [dataset200, "color('#F9A717')"], // 151-200 kWh/m²a
           [dataset250, "color('#F56D1F')"], // 201-250 kWh/m²a
           [dataset251, "color('#F22E22')"], // > 250 kWh/m²a
-          ['true', 'color("white")'] // for all buildings that do not have heat demand data
+          ['true', 'color("white")'] // for all buildings that do not have heat demand value
         ]
       }
     });
