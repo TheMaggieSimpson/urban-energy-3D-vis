@@ -47,7 +47,7 @@ $.getJSON( "data/essen_heatDemand.json", function(data) {
     param = parseFloat(param.replace(",","."));
 
     let i = 0;
-    while ( param > arrDataset[i][1] && i < arrDataset.length-1) {
+    while ( param > arrDataset[i][0] && i < arrDataset.length-1) {
       i++;
     }
     console.log(param+" // "+arrDataset[i][0]);
