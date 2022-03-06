@@ -50,7 +50,7 @@ $.getJSON( "data/essen_heatDemand.json", function(data) {
     while ( param > arrDataset[i][1] && i < arrDataset.length-1) {
       i++;
     }
-    console.log(param+" // "+arrDataset[i][1]);
+    console.log(param+" // "+arrDataset[i][0]);
     // Merge the string
     if (arrDataset[i][1]) {
       // merging
@@ -60,7 +60,6 @@ $.getJSON( "data/essen_heatDemand.json", function(data) {
       arrDataset[i][1] = '(regExp("'+buildingId+'").test(${gmlID}))';
     }
   }
-  console.log(arrDataset);
 
   // style the tileset based on heat demand
   tileset.style = new Cesium.Cesium3DTileStyle({
