@@ -50,7 +50,6 @@ $.getJSON( "data/essen_heatDemand.json", function(data) {
     while ( param > arrDataset[i][0] && i < arrDataset.length-1) {
       i++;
     }
-    console.log(param+" // "+arrDataset[i][0]);
     // Merge the string
     if (arrDataset[i][1]) {
       // merging
