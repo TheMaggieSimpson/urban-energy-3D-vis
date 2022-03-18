@@ -37,93 +37,48 @@ This demo uses [randomly generated data of annual building heating demand in the
 The code below categorizes heating demand into 10 categories, and put each building in the 3D Tiles accordingly based on its annual heating demand.
 
 ```
-let dataset25, dataset50, dataset75, dataset100, dataset125, dataset150, dataset200, dataset250, dataset251, datasetNone
-    
-for (idx = 0; idx < json.length; idx++) {
-    let buildingID = json[idx]["gml_id"] // Building ID on the JSON file
-    let param = json[idx]["annual_heat_demand"] // Visualized parameter
-    param = parseFloat(param.replace(",","."))
-                    
-    if (param == "" || isNaN(param)){
-      if (!datasetNone) {
-        datasetNone = '(regExp("'+buildingID+'").test(${gmlID}))' // "gmlID" refers the to variable name of the Building ID in the tileset file
-      } else {
-        datasetNone += '|| (regExp("'+buildingID+'").test(${gmlID}))'
-      }
-    } else if (param <= 25){
-      if (!dataset25) {
-        dataset25 = '(regExp("'+buildingID+'").test(${gmlID}))'
-      } else {
-        dataset25 += '|| (regExp("'+buildingID+'").test(${gmlID}))'
-      }
-    } else if (param <= 50) {
-      if (!dataset50) {
-        dataset50 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset50 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
-    } else if (param <= 75) {
-      if (!dataset75) {
-        dataset75 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset75 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
-    } else if (param <= 100) {
-      if (!dataset100) {
-        dataset100 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset100 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
-    } else if (param <= 125) {
-      if (!dataset125) {
-        dataset125 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset125 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
-    } else if (param <= 150) {
-      if (!dataset150) {
-        dataset150 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset150 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
-    } else if (param <= 200) {
-      if (!dataset200) {
-        dataset200 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset200 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
-    } else if (param <= 250) {
-      if (!dataset250) {
-        dataset250 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset250 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
-    } else if (param > 250) {
-      if (!dataset251) {
-        dataset251 = '(regExp("'+buildingID+'").test(${gmlID}))';
-      } else {
-        dataset251 += '|| (regExp("'+buildingID+'").test(${gmlID}))';
-      }
+let arrDataset = [
+    [25, null, "color('#61B949')"], [50, null, "color('#A4C711')"], [75, null, "color('#B2D531')"],
+    [100, null, "color('#D1E023')"], [125, null, "color('#F6EC00')"], [150, null, "color('#FECE02')"],
+    [200, null, "color('#F9A717')"], [250, null, "color('#F56D1F')"], [251, null, "color('#F22E22')"]
+  ];
+
+  for (idx = 0; idx < json.length; idx++) {
+    let buildingId = json[idx]["gml_id"]; // Building ID on the JSON file
+    let param = json[idx]["annual_heat_demand"]; // Visualized parameter
+    param = parseFloat(param.replace(",","."));
+
+    let i = 0;
+    while ( param > arrDataset[i][0] && i < arrDataset.length-1) {
+      i++;
     }
-}
+    // Merge the string
+    if (arrDataset[i][1]) {
+      // merging
+      arrDataset[i][1] += '|| (regExp("'+buildingId+'").test(${gmlID}))'; // "gmlID" refers the to variable name of the Building ID in the tileset file
+    } else {
+      // initialization
+      arrDataset[i][1] = '(regExp("'+buildingId+'").test(${gmlID}))';
+    }
+  }
 ```
 Next, the buildings are colored according to their annual heating demand category.
 ```
 // style the tileset based on heat demand
 tileset.style = new Cesium.Cesium3DTileStyle({
-    color: {
-        conditions: [
-            [dataset25, "color('#61B949')"], // 0-25 kWh/m²a
-            [dataset50, "color('#A4C711')"], // 26-50 kWh/m²a
-            [dataset75, "color('#B2D531')"], // 51-75 kWh/m²a
-            [dataset100, "color('#D1E023')"], // 76-100 kWh/m²a
-            [dataset125, "color('#F6EC00')"], // 101-125 kWh/m²a
-            [dataset150, "color('#FECE02')"], // 126-150 kWh/m²a
-            [dataset200, "color('#F9A717')"], // 151-200 kWh/m²a
-            [dataset250, "color('#F56D1F')"], // 201-250 kWh/m²a
-            [dataset251, "color('#F22E22')"], // > 250 kWh/m²a
-            ['true', 'color("white")'] // for all buildings that do not have heat demand value
-        ]
-    }
+  color: {
+    conditions: [
+      [arrDataset[0][1], arrDataset[0][2]], // 0-25 kWh/m²a
+      [arrDataset[1][1], arrDataset[1][2]], // 26-50 kWh/m²a
+      [arrDataset[2][1], arrDataset[2][2]], // 51-75 kWh/m²a
+      [arrDataset[3][1], arrDataset[3][2]], // 76-100 kWh/m²a
+      [arrDataset[4][1], arrDataset[4][2]], // 101-125 kWh/m²a
+      [arrDataset[5][1], arrDataset[5][2]], // 126-150 kWh/m²a
+      [arrDataset[6][1], arrDataset[6][2]], // 151-200 kWh/m²a
+      [arrDataset[7][1], arrDataset[7][2]], // 201-250 kWh/m²a
+      [arrDataset[8][1], arrDataset[8][2]], // > 250 kWh/m²a
+      ['true', 'color("white")'] // for all buildings that do not have heat demand value
+    ]
+  }
 });
 ```
